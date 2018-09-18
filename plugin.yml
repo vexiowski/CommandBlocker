@@ -1,0 +1,5 @@
+name: CommandBlocker
+main: github.vexio.commandblocker.Main
+author: VexioPL
+description: Plugin na blokowanie komend
+version: 1.0

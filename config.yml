@@ -1,0 +1,7 @@
+blocker:
+    commands:
+    - pl
+    - plugins
+    - ver
+    - version
+    message: " &8» &7Komenda &c{COMMAND} &7jest zablokowana!"
